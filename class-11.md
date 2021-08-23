@@ -1,0 +1,10 @@
+# Class 11 reading notes
+
+### Ch 16
+this chapter covers images and how to use and manipulate them in css. much like every other element in css you can control the size of the images that you choose to display. you can also set preset sizing and call back to it whenever you may need to use it throughout a page. like many css elements you are able to adjust and align images in both the vertical and horizontal. images can be kept in a box of your sizing or be used to create the background of the page. background images can be fixed or repeated across the page in both a horizontal or vertical manner if desired. one thing to consider when adding images is how it well effect the loading times of the page. more images will cause a lag and slow down of the loading when the page is initialized. 
+
+### Ch 19
+this chapter covers practical information in regards to web pages. one such thing is search engine optimization. that is to make you page a searchable as possible so that it is easily found by people who may be looking for it. one such way to do this is to use specific keywords and phrases when it comes to the content on your page. these buzzwords will help the search engine know what it is that is on the page and bring it up when someone requests it. another thing you can do is discover more about the visitors of the site and where they entered and where they left the site. this will allow you to refine the content or stlye of the pages that are needing attention. tools such as google analytics let you take a look at who is visiting and when how many and which of the pages. thsi tool is a free resource and can be leveraged to make the site so much more affective. 
+
+### Article
+this was a very technical article on how the video and audio can be inserted into a web page. it covered every aspect of of adding clips into a web page. a very useful piece of documentation to have for future referance. 
