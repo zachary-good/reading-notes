@@ -13,3 +13,4 @@
 <p><a href="https://github.com/zachary-good/reading-notes/blob/4ff186a6a3d73ef7fecd78808c495f881f966ddf/class-08.md">Class 8 Notes</a></p>
 <p><a href="https://github.com/zachary-good/reading-notes/blob/9781e863b616eec1fadfe95fe85dbb0b1424b516/class-09.md">Class 9 Notes</a></p>
 <p><a href="https://github.com/zachary-good/reading-notes/blob/e35ae87922884330d8309b53bc7ef50d0a72a98f/class-10.md">Class 10 Notes</a></p>
+<p><a href="https://github.com/zachary-good/reading-notes/blob/84c29cf7be5ef6f51c33cd8b38b147e7a77cee4b/class-11.md">Class 11 Notes</a></p>
