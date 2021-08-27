@@ -1,4 +1,4 @@
-#Class 15 reading notes
+# Class 15 reading notes
 
 ### article css transitions to wow users
 this article covers some simple things that can be done to spice up the code and wow users. the 8 stlyes discussed are: fade in, change colors, grow and shrink, rotate elements, square to cirlce, 3d shadow, swing, and inset border. this was a nice article that will give me some new ideas to work with going forward. 
