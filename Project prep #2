@@ -1,14 +1,19 @@
 Name of Project - House of Hell
 
 Summary of idea.
-1. - horror survival game with multiple tasks to be accomplished. 
+1. 
+- horror survival game with multiple tasks to be accomplished. 
 - main goal is to survive by completing the tasks. 
 - The boss of each level will be an evil version of one of the developers 
 
-2. - casino games with a purse that tracks your winnings and loses over the course of the interaction, with several casino games to pick from. 
+2. 
+- casino games with a purse that tracks your winnings and loses over the course of the interaction, with several casino games to pick from. 
+- casino game that use a slot machine
 
 What problem or pain point does it solve? a. Keep it high level without going into too much detail. (3-4 sentences is enough)
-This idea is strictly for entertainment, it solves boredom. Develops your ability to problem solve and trouble shoot. 
+- This idea is strictly for entertainment 
+- it solves boredom. 
+- Develops your ability to problem solve and trouble shoot. 
 
 Minimum Viable Product (MVP) definition.
 What is the minimum required for you to present on your demo day?
@@ -20,3 +25,10 @@ What is the minimum required for you to present on your demo day?
 Stretch goals:
 - Boss character animations for correct or incorrect answers
 - evil developer photos on mouse hover/ animation
+
+
+to do: 
+- map out each level and resources before we begin.
+- make level template that is re usable from level to level
+- stay realistic with the scope of the game and our time/abilities
+- 
